@@ -1,2 +1,2 @@
-# Trees-and-cards-detection
-A python program that can detect trees and cards in an given image
+# Trees-and-cars-detection
+A python program that can detect trees and cars in an given image
