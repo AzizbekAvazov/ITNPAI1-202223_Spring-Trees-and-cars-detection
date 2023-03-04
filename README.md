@@ -1,3 +1,7 @@
+University of Stirling
+Student Number: 3124021
+Deep Learning for Vision and NLP (ITNPAI1 [202223_Spring])
+
 # Trees-and-cars-detection
 The objective of this project is to develop a computer vision program that can detect trees and cars from images using Python programming language. The program should be able to take input images in various formats (e.g., JPG, PNG, etc.) and identify regions of the image that contain either a tree or a car.
 
