@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>tashkent_58.jpg</filename>
+	<path>/my-project-name/tashkent_58.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>739</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>3</ymin>
+			<xmax>83</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
