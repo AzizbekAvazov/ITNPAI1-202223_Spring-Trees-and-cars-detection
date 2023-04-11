@@ -11,8 +11,6 @@ The program should use a combination of image processing techniques and machine 
 
 The program should be robust enough to handle different lighting conditions, weather conditions, and camera angles. It should also be able to handle images with multiple trees and cars in them, and accurately label each object in the image.
 
-The program should also be able to differentiate between different types of trees and cars (e.g., deciduous trees, coniferous trees, SUVs, sedans, etc.). However, this task can be an optional, that I may choose to include or exclude in my implementation. Or it maybe something that I wish to implement in the long-term, if I will not be able to implement it in the given deadline.
-
 The output of the program should be a list of bounding boxes that contain the detected trees and cars, along with their respective labels. The program should also be able to visualize the detected objects on the input image.
 
 Overall, the goal of this project is to develop a reliable and accurate computer vision program that can detect trees and cars from images for various applications, such as autonomous vehicles, environmental monitoring, and city planning.
